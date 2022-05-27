@@ -6,7 +6,7 @@
 
 - 🌱 Estoy aprendiendo: **Ionic Framework, Angular.**
 
-- 👨‍💻 Mis proyectos están disponibles en: [https://github.com/Asdex1240](https://github.com/Asdex1240)
+- 👨‍💻 Mis proyectos están disponibles en: [https://github.com/Asdex1240?tab=repositories](https://github.com/Asdex1240?tab=repositories)
 
 - 📝 Suelo escribir en: [https://www.facebook.com/asdextechnologies](https://www.facebook.com/asdextechnologies)
 
