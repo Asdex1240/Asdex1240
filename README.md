@@ -1,25 +1,22 @@
 <h1 align="center">Hi 👋, I'm Asdex1240</h1>
 <h3 align="center">Esto comenzando en el mundo de la programación, actualmente estoy enfocado en crear aplicaciones con Ionic Framework</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asdex1240&label=Profile%20views&color=0e75b6&style=flat" alt="asdex1240" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asdex1240" alt="asdex1240" /></a> </p>
+- 🔭 Estoy trabajando en: [CheckYourMoney](https://github.com/Asdex1240/CheckYourMoney)
 
-- 🔭 I’m currently working on [CheckYourMoney](https://github.com/Asdex1240/CheckYourMoney)
+- 🌱 Estoy aprendiendo: **Ionic Framework, Angular.**
 
-- 🌱 I’m currently learning **Ionic Framework, Angular.**
+- 👨‍💻 Mis proyectos están disponibles en: [https://github.com/Asdex1240](https://github.com/Asdex1240)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Asdex1240](https://github.com/Asdex1240)
+- 📝 Suelo escribir en: [https://www.facebook.com/asdextechnologies](https://www.facebook.com/asdextechnologies)
 
-- 📝 I regularly write articles on [https://www.facebook.com/asdextechnologies](https://www.facebook.com/asdextechnologies)
+- 💬 Puedo hablarte sobre **Ionic, Angular, C, HTML, TypeScript**
 
-- 💬 Ask me about **Ionic, Angular, C, HTML, TypeScript**
+- 📫 Contactame: **asdex.contact@gmail.com**
 
-- 📫 How to reach me **asdex.contact@gmail.com**
+- 📄 Yo estoy aprendiendo: Ionic Framework
 
-- 📄 Know about my experiences [Learning Ionic Framework.](Learning Ionic Framework.)
-
-- ⚡ Fun fact **Olvido comer.**
+- ⚡ Algo divertido: **Olvido comer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
