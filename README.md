@@ -18,7 +18,7 @@
 
 - ⚡ Algo divertido: **Olvido comer.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Mis redes sociales:</h3>
 <p align="left">
 <a href="https://twitter.com/asdex1240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asdex1240" height="30" width="40" /></a>
 <a href="https://fb.com/asdextechnologies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asdextechnologies" height="30" width="40" /></a>
