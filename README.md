@@ -12,7 +12,7 @@
 
 - 💬 Puedo hablarte sobre **Ionic, Angular, C, HTML, TypeScript**
 
-- 📫 Contactame: **asdex.contact@gmail.com**
+- 📫 Contactame: **contact.asdex@gmail.com**
 
 - 📄 Yo estoy aprendiendo: Ionic Framework
 
