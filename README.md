@@ -8,15 +8,13 @@
 
 - 👨‍💻 Mis proyectos están disponibles en: [https://github.com/Asdex1240?tab=repositories](https://github.com/Asdex1240?tab=repositories)
 
-- 📝 Suelo escribir en: [https://www.facebook.com/asdextechnologies](https://www.facebook.com/asdextechnologies)
+- 📝 Mi sitio web: [https://asdextechnologies.netlify.app/](https://asdextechnologies.netlify.app/)
 
 - 💬 Puedo hablarte sobre **Ionic, Angular, C, HTML, TypeScript**
 
 - 📫 Contactame: **contact.asdex@gmail.com**
 
 - 📄 Yo estoy aprendiendo: Ionic Framework
-
-- ⚡ Algo divertido: **Olvido comer.**
 
 <h3 align="left">Mis redes sociales:</h3>
 <p align="left">
