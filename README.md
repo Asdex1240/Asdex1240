@@ -2,7 +2,7 @@
 <h3 align="center">Esto comenzando en el mundo de la programación, actualmente estoy enfocado en crear aplicaciones con Ionic Framework</h3>
 
 
-- 🔭 Estoy trabajando en: [CheckYourMoney](https://github.com/Asdex-Technologies/CheckYourMoney)
+- 🔭 Estoy trabajando en: [BackPack](https://github.com/Asdex-Technologies/BackPack)
 
 - 🌱 Estoy aprendiendo: **Ionic Framework, Angular.**
 
