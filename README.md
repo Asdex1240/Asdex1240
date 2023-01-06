@@ -2,17 +2,17 @@
 <h3 align="center">Esto comenzando en el mundo de la programación, actualmente estoy enfocado en crear aplicaciones con Ionic Framework</h3>
 
 
-- 🔭 Estoy trabajando en: [Ecommerce](https://github.com/Asdex1240/Ecommerce)
+- 🔭 Estoy trabajando en: [Estructuras de datos Con JavaScript](https://github.com/Asdex1240/estructurasDeDatos)
 
-- 🌱 Estoy aprendiendo: **Ionic Framework, Angular.**
+- 🌱 Estoy aprendiendo: **Angular, Express, TS, MongoDB, Firebase**
 
-- 👨‍💻 Mis proyectos están disponibles en: [https://github.com/Asdex1240?tab=repositories](https://github.com/Asdex1240?tab=repositories)
+- 👨‍💻 Mis proyectos están disponibles [Aquí](https://asdextechnologies.netlify.app/apps)
 
-- 📝 Mi sitio web: [https://asdextechnologies.netlify.app/](https://asdextechnologies.netlify.app/)
+- 📝 [Mi sitio web](https://asdextechnologies.netlify.app/)
 
-- 💬 Puedo hablarte sobre **Ionic, Angular, C, HTML, TypeScript**
+- 💬 Estoy relacionado con; **Ionic, Angular, Firebase, Express**
 
-- 📫 Contactame: **contact.asdex@gmail.com**
+- 📫 Contactame  [Aquí](https://asdextechnologies.netlify.app/contacto)
 
 - 📄 Yo estoy aprendiendo: Ionic Framework
 
