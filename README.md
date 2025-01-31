@@ -2,7 +2,7 @@
 
 Desarrollo de software con experiencia en soluciones web y móviles. Me especializo en el desarrollo móvil utilizando tecnologías modernas como Angular, Ionic y Capacitor.
 
-En el backend, soy capaz de construir APIs robustas y escalables. Usando tecnologías como NestJS y .NET para estructurar aplicaciones de manera modular y mantenible.
+En el backend, soy capaz de construir APIs robustas y escalables. Usando tecnologías como NestJS y Ruby on Rails para estructurar aplicaciones de manera modular y mantenible.
 
 ## Lenguajes de Programación
 - JavaScript / TypeScript
@@ -10,6 +10,7 @@ En el backend, soy capaz de construir APIs robustas y escalables. Usando tecnolo
 - C#
 - C++
 - SQL
+- Ruby
 
 
 ## Frameworks y Bibliotecas
@@ -17,6 +18,7 @@ En el backend, soy capaz de construir APIs robustas y escalables. Usando tecnolo
 - Ionic (TypeScript)
 - Node.js (TypeScript)
 - .NET (C#)
+- Ruby on Rails
 
 ## Frontend
 - HTML5
